@@ -6,7 +6,7 @@ You will find:
 - agent image
 - banner for comms
 
-Current Version: v1.0 \
+Current Version: v1.1 \
 Revision 28.11.2025 
 
 - This agent can be set up easily and quick - only minutes to invest! Find a HowTo Video here: https://www.youtube.com/watch?v=OUJ2QMdkSmU 
