@@ -19,8 +19,11 @@ Start with the "Campaign Overview" PDF in this repository to understand approach
 
 ### Setup (Only Takes Minutes!)
 
-- **3 Options available: 1 free Agent Builder version, 2 setup in Copilot Studio and pinned, 3 proactively reaching out to users for maximum impact
-- **Video Tutorial:** [Watch the HowTo Video](https://www.youtube.com/watch?v=OUJ2QMdkSmU)
+- **3 Options available:
+- 1. free Agent Builder version
+  2. setup in Copilot Studio and pinned (zip file to just import the solution in seconds)
+  3. proactively reaching out to users for maximum impact (all needed logic also included in the solution zip)
+- **Video Tutorial for option 1:** [Watch the HowTo Video](https://www.youtube.com/watch?v=OUJ2QMdkSmU)
 - **Check Out the complete setup and deployment documentation in this repository for options 2 and 3
 - **Pro Tip:** Leverage the Microsoft 365 Learning Path for a solid foundation (check other repositories in this account)
 
