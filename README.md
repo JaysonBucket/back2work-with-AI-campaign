@@ -20,7 +20,7 @@ Start with the "Campaign Overview" PDF in this repository to understand approach
 ### Setup (Only Takes Minutes!)
 
 - **3 Options available:
-- 1. free Agent Builder version
+  1. free Agent Builder version
   2. setup in Copilot Studio and pinned (zip file to just import the solution in seconds)
   3. proactively reaching out to users for maximum impact (all needed logic also included in the solution zip)
 - **Video Tutorial for option 1:** [Watch the HowTo Video](https://www.youtube.com/watch?v=OUJ2QMdkSmU)
