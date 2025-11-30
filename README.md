@@ -1,21 +1,27 @@
 # Back to Work Agent - Do It Smarter, Not Harder! 🚀
 
 A complete back-to-work campaign repository to help you start 2026 energized and productive.
+Start with the "Campaign Overview" PDF in this repository to understand approach, contents and potential
 
 ## 📦 What's Included
 
 - Agent source files
 - Agent icon
 - Agent image assets
+- complete howto including best practises, timeline and tech optimization hints
+- digital swag
+- digital Learning Path to use in your Learning Management System
 
 **Current Version:** v1.1  
-**Last Updated:** November 28, 2025
+**Last Updated:** November 30, 2025
 
 ## 🎯 Quick Start
 
 ### Setup (Only Takes Minutes!)
 
+- **3 Options available: 1 free Agent Builder version, 2 setup in Copilot Studio and pinned, 3 proactively reaching out to users for maximum impact
 - **Video Tutorial:** [Watch the HowTo Video](https://www.youtube.com/watch?v=OUJ2QMdkSmU)
+- **Check Out the complete setup and deployment documentation in this repository for options 2 and 3
 - **Pro Tip:** Leverage the Microsoft 365 Learning Path for a solid foundation (check other repositories in this account)
 
 <img width="250" height="250" alt="Back to work agent preview" src="https://github.com/user-attachments/assets/fb01dcb9-f016-4e16-9358-e7238607c848" />
