@@ -3,6 +3,8 @@
 
 **Last Updated:** January 13, 2026 <br><br>
 
+This is part of a broader set of Copilot agent and learning materials. Check out my projects site to get an overview:
+https://www.jaysons.dev
 
 ### 2026 brings AI on every desk
 - Leverage the [Campaign Overview](Campaign%20Overview%20-%20Back%20to%20Work%202026%20-%20Do%20it%20smarter%20not%20harder.pdf)<br><br>
