@@ -1,0 +1,29 @@
+remote_theme: just-the-docs/just-the-docs@v0.10.0
+plugins:
+  - jekyll-remote-theme
+
+title: "Back to Work Agent"
+description: "Setup and Deployment Documentation"
+baseurl: "/back2work-with-AI-campaign"
+url: "https://jaysonbucket.github.io"
+
+logo: "/assets/images/logo.png"
+
+color_scheme: custom
+
+aux_links:
+  "GitHub Repo":
+    - "https://github.com/JaysonBucket/back2work-with-AI-campaign"
+
+aux_links_new_tab: true
+
+nav_sort: order
+
+search_enabled: true
+search:
+  heading_level: 3
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: 'Back to Work Campaign &mdash; Community project for AI adoption. <a href="https://github.com/JaysonBucket/back2work-with-AI-campaign">View on GitHub</a>'
